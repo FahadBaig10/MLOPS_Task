@@ -1,0 +1,11 @@
+[core]
+    autostage = true
+    remote = r3
+['remote "myremote"']
+    url = https://drive.google.com/drive/u/2/folders/197SwzI6rUAWGD6jdU7_1tQZJlif70oXn
+['remote "r1"']
+    url = \https://drive.google.com/drive/u/2/folders/197SwzI6rUAWGD6jdU7_1tQZJlif70oXn
+['remote "r2"']
+    url = /https://drive.google.com/drive/u/2/folders/197SwzI6rUAWGD6jdU7_1tQZJlif70oXn
+['remote "r3"']
+    url = /197SwzI6rUAWGD6jdU7_1tQZJlif70oXn
